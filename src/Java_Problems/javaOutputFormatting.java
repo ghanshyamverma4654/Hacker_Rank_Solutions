@@ -1,4 +1,4 @@
-package Hacker_Rank_Solutions;
+package Java_Problems;
 
 import java.util.Scanner;
 
