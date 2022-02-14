@@ -8,6 +8,8 @@ import java.util.Scanner;
  * JDK version : 17 version 17
  * IDE : IntelliJ IDEA Ultimate
  */
+
+// printing the table of number entered by the user!
 public class JavaLoops {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
