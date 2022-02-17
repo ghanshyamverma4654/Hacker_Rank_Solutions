@@ -18,8 +18,8 @@ public class javaOutputFormatting {
 
         for (int i = 0; i < 3; i++) {
             String str = scan.next();
-            int num = scan.nextInt();
-            System.out.printf("%-15s%03d%n", str, num);
+            int number = scan.nextInt();
+            System.out.printf("%-15s%03d%n", str, number);
         }
 
         System.out.print("================================");
